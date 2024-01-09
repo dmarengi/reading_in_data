@@ -5,4 +5,4 @@
 
 ## Case study 1 example codebook
 
-![](images/codebook-example.png)
+![](codebook-example.png)
