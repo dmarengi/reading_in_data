@@ -5,4 +5,4 @@
 
 ## Case study 1 example codebook
 
-<img src="codebook-example.png" width="200" />
+<img src="codebook-example.png" width="500" />
