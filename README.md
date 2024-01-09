@@ -5,4 +5,4 @@
 
 ## Case study 1 example codebook
 
-![](images/codebook-example.png){.absolute right="0" bottom="0" height="65%"}
+![](images/codebook-example.png)
