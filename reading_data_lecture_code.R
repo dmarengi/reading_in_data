@@ -35,7 +35,7 @@ col_widths <- c(5, 2, 2, 1, 2, 5, 5, 3, 3)
 # Step 2: Create a vector of column names (as in step 1, from left to right; ncol = 9)
 col_names <- c("id", "age", "edu", "smoke", "cigs", "sbp", "dbp", "chol", "glucose")
 
-# Step 3: Read in the data, specifying column names and positions
+# Step 3: Read in the data, specifying column names and widths
 data <- read_fwf("data/newstudy.txt", fwf_widths(widths = col_widths, col_names = col_names))
 
 # Print the data
