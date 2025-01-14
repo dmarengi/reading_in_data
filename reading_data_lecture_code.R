@@ -4,15 +4,15 @@
 # INPUTS:  newstudy.txt; exercise.xlsx
 # AUTHORS: Dean A. Marengi, Jr.
 # CREATED: 01/08/2024
-# LATEST:  01/09/2024
+# LATEST:  01/14/2025
 # NOTES:   
 # ############################################################################ #
 
 # SET UP ------------------------------------------------------------------
 # Install packages (if you have not already installed them)
-# library(tidyverse) # Includes 'readr' package
-# library(readxl)    # For importing excel files (xlsx, xls)
-# library(haven)     # For importing statistical software files (.dta, .sas7bdat, etc.)    
+# install.packages(tidyverse) # Includes 'readr' package
+# install.packages(readxl)    # For importing excel files (xlsx, xls)
+# install.packages(haven)     # For importing statistical software files (.dta, .sas7bdat, etc.)    
 
 # Load packages 
 library(tidyverse)
